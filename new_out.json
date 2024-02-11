@@ -1,0 +1,85 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "John Doe",
+    "pin": "1234",
+    "balance": 5000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 500,
+        "date": "2024-02-01"
+      },
+      {
+        "type": "withdraw",
+        "amount": 200,
+        "date": "2024-02-02"
+      },
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2/10/2024"
+      },
+      {
+        "type": "withdraw",
+        "amount": 555,
+        "date": "2/10/2024"
+      },
+      {
+        "type": "withdraw",
+        "amount": 445,
+        "date": "2/10/2024"
+      },
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2/11/2024"
+      },
+      {
+        "type": "withdraw",
+        "amount": 5000,
+        "date": "2/11/2024"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Jane Smith",
+    "pin": "4321",
+    "balance": 9000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "withdraw",
+        "amount": 300,
+        "date": "2024-02-04"
+      },
+      {
+        "type": "deposit",
+        "amount": 8000,
+        "date": "2/11/2024"
+      },
+      {
+        "type": "withdraw",
+        "amount": 1200,
+        "date": "2/11/2024"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1003",
+    "name": "simo",
+    "pin": 3766,
+    "balance": 5000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 5000
+      }
+    ]
+  }
+]
